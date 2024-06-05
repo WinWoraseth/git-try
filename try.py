@@ -1,4 +1,5 @@
 print("hello world")
 x = "dad"
 y = "mom"
-print("hello")
+print("hello hi dad")
+print("hello hi mom")
